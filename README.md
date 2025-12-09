@@ -91,8 +91,9 @@ Integration allows project to double as a productivity tool, increasing difficul
 - Arcade timing bars
 - Safe-like enclosure to 
 
-
 ### Future Ideas
 
 - 2-player sabotage mode (one player disrupts the other via BLE, introduction of a third microcontroller)
 - Add new random events to increase difficulty and add variety
+
+> Portions of this project were developed with assistance from OpenAI’s ChatGPT and Anthropic’s Claude.
